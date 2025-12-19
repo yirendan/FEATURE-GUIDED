@@ -11,3 +11,7 @@ Ablation Study
 -
 **ShapeNet**
 ![image](https://github.com/yirendan/FEATURE-GUIDED/blob/main/figs/SahpeNet.png)
+
+Data Link
+-
+We provide the addresses for the corresponding data of ShapeNet, FamousShape, and MGD here.
