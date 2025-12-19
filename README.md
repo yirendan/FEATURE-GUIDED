@@ -14,4 +14,4 @@ Ablation Study
 
 Data Link
 -
-We provide the addresses for the corresponding data of [ShapeNet](https://huggingface.co/ShapeNet), FamousShape, and MGD here.
+We provide the addresses for the corresponding data of [ShapeNet](https://huggingface.co/ShapeNet), [FamousShape](https://www.cg.tuwien.ac.at/research/publications/2020/erler-2020-p2s/erler-2020-p2s-famous.zip), and MGD here.
