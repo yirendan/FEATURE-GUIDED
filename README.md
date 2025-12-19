@@ -10,4 +10,4 @@ Demo Results
 Ablation Study
 -
 **ShapeNet**
-![image](https://github.com/yirendan/FEATURE-GUIDED/blob/main/figs/SahpeNet1.png)
+![image](https://github.com/yirendan/FEATURE-GUIDED/blob/main/figs/SahpeNet.png)
